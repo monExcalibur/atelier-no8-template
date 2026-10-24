@@ -17,7 +17,9 @@
     "preview": "vite preview --host 127.0.0.1",
     "format": "prettier --write src tests scripts vite.config.ts eslint.config.js *.json",
     "format:check": "prettier --check src tests scripts vite.config.ts eslint.config.js *.json",
-    "assets:prepare": "node scripts/prepare-assets.mjs"
+    "assets:prepare": "node scripts/prepare-assets.mjs",
+    "build:github": "node scripts/build-target.mjs github",
+    "build:cloudflare": "node scripts/build-target.mjs cloudflare"
   },
   "dependencies": {
     "lucide-react": "1.61.0",
