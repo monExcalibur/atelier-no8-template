@@ -1,0 +1,307 @@
+{
+  "checkedAt": "2026-10-24T11:32:10.760816+00:00",
+  "target": "cloudflare",
+  "url": "https://atelier-no8-template.pages.dev/",
+  "status": 200,
+  "canonical": "https://atelier-no8-template.pages.dev/",
+  "sourceCommit": "bc467f6392790d1845b7d5e7ae994fe82c911c44",
+  "resources": [
+    {
+      "url": "https://atelier-no8-template.pages.dev/favicon.svg",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/favicon.svg",
+      "status": 200,
+      "contentType": "image/svg+xml",
+      "bytes": 247,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/assets/index-D1j4xfFa.js",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/assets/index-D1j4xfFa.js",
+      "status": 200,
+      "contentType": "application/javascript",
+      "bytes": 262595,
+      "publicAssetMatchesSource": false
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/assets/index-DuUgZMKp.css",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/assets/index-DuUgZMKp.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 31176,
+      "publicAssetMatchesSource": false
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/image-credits.html",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/image-credits",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "bytes": 2921,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/body-medium.woff2",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/body-medium.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 14304,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/body-regular.woff2",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/body-regular.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 14200,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/cormorant-garamond-LICENSE.txt",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/cormorant-garamond-LICENSE.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 4504,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/display-italic.woff2",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/display-italic.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 23660,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/display-regular.woff2",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/display-regular.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 22876,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/fonts/dm-sans-LICENSE.txt",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/fonts/dm-sans-LICENSE.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 4502,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/forma-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/forma-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 114110,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/forma-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/forma-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 222762,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/forma-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/forma-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 32916,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/light-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/light-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 35640,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/light-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/light-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 65882,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/light-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/light-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 14112,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/maison-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/maison-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 34360,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/maison-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/maison-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 64532,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/maison-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/maison-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 12656,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/objects-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/objects-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 24402,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/objects-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/objects-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 75106,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/objects-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/objects-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 7582,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/social-preview.jpg",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/social-preview.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 72710,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/solstice-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/solstice-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 21984,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/solstice-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/solstice-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 40390,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/solstice-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/solstice-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 8374,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/stillwater-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/stillwater-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 228948,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/stillwater-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/stillwater-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 405156,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/stillwater-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/stillwater-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 81312,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/studio-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/studio-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 303764,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/studio-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/studio-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 622328,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/studio-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/studio-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 89186,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/vela-1200.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/vela-1200.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 43754,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/vela-1800.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/vela-1800.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 73234,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/images/vela-640.webp",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/images/vela-640.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 19350,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/licenses/lucide-LICENSE.txt",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/licenses/lucide-LICENSE.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 3208,
+      "publicAssetMatchesSource": true
+    },
+    {
+      "url": "https://atelier-no8-template.pages.dev/licenses/react-MIT.txt",
+      "resolvedUrl": "https://atelier-no8-template.pages.dev/licenses/react-MIT.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 1088,
+      "publicAssetMatchesSource": true
+    }
+  ],
+  "allPassed": true
+}

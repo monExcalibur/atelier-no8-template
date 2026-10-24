@@ -38,16 +38,24 @@ Open [localhost:4194](http://127.0.0.1:4194/). Use `-- --port 4195` if that stri
 | `npm test` | Configuration, contact, assets, metadata and deployment contracts |
 | `npm run format:check` | Formatting check (`npm run format` applies it) |
 | `npm run audit:publication` | Credential-pattern and local-asset audit |
-| `npm run build` | Production output in `dist/` |
+| `npm run build` | Portable local production build in `dist/` |
+| `npm run build:github` | Repository-subpath production build |
+| `npm run build:cloudflare` | Root-hosted Cloudflare production build |
 | `npm run preview` | Inspect the built site locally |
 
 ## Deployment
 
-**Primary target: Cloudflare Pages connected to GitHub.** Use build command `npm run build`, output `dist`, Node 22 and root asset base `/`. The project supports Cloudflare's `CF_PAGES=1` build environment and rejects a conflicting repository subpath. A production canonical URL is optional until the actual address is known; set public `VITE_SITE_URL` when ready.
+Both production demonstrations are published and verified over HTTPS on 2026-10-24:
 
-Follow [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for exact GitHub commands, repository scope, Pages build/environment settings, automatic deployments, verification and custom domains. The existing manual-only GitHub Pages workflow remains supported; [PUBLISHING.md](PUBLISHING.md) covers that alternative.
+| Destination | Public address |
+| --- | --- |
+| Source repository | [atelier-no8-template](https://github.com/monExcalibur/atelier-no8-template) |
+| GitHub Pages | [https://monexcalibur.github.io/atelier-no8-template/](https://monexcalibur.github.io/atelier-no8-template/) |
+| Cloudflare Pages | [https://atelier-no8-template.pages.dev/](https://atelier-no8-template.pages.dev/) |
 
-Hosting is not enabled. Uploading source does not deploy a website; Cloudflare/Pages configuration and hosted verification remain owner actions.
+A push to `main` automatically triggers both platforms from the same source commit. GitHub Actions runs `npm run build:github` with repository base `/atelier-no8-template/`; native Cloudflare Pages Git integration runs `npm run build:cloudflare` with root base `/`. Each platform publishes its own `dist` build and stable canonical URL. The GitHub owner/repository are derived from Actions metadata or the Git remote, not hardcoded in the build script.
+
+[DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) covers updates, public build settings, monitoring, verification, custom domains and rollback. [DEPLOYMENT_EXECUTION_PLAN.md](DEPLOYMENT_EXECUTION_PLAN.md) and [qa/live-deployment-checks.json](qa/live-deployment-checks.json) record the deployment checks. Historical release reports describe their original local verification date; this section supersedes their pre-publication hosting status.
 
 ## Customization
 

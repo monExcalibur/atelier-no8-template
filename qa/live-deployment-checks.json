@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-24",
+  "sourceCommit": "bc467f6392790d1845b7d5e7ae994fe82c911c44",
+  "github": {
+    "url": "https://monexcalibur.github.io/atelier-no8-template/",
+    "actionsRun": "https://github.com/monExcalibur/atelier-no8-template/actions/runs/40089144678",
+    "status": "success",
+    "checked": [
+      "HTTPS homepage and canonical",
+      "CSS/JS/favicon and all public assets (HTTP and source-byte comparison)",
+      "Desktop and 375px mobile layout with no horizontal page overflow",
+      "Mobile menu opens and follows an anchor, then closes",
+      "Hash navigation and page refresh",
+      "Browser console has no captured errors or warnings",
+      "Visible fictional/demo labels",
+      "Brand Identity filter shows Forma and Maison Elan",
+      "Forma project dialog opens with both images loaded",
+      "Project dialog close/return works",
+      "Empty form shows field errors; valid demo enquiry explicitly says nothing sent or stored",
+      "Local fonts finish loading"
+    ]
+  },
+  "cloudflare": {
+    "url": "https://atelier-no8-template.pages.dev/",
+    "source": "native GitHub integration",
+    "productionBranch": "main",
+    "automaticDeploymentsEnabled": true,
+    "status": "success",
+    "checked": [
+      "HTTPS homepage and canonical",
+      "CSS/JS/favicon and all public assets (HTTP and source-byte comparison)",
+      "Desktop and 375px mobile layout with no horizontal page overflow",
+      "Mobile menu opens and follows an anchor, then closes",
+      "Hash navigation and page refresh",
+      "Browser console has no captured errors or warnings",
+      "Visible fictional/demo labels",
+      "Brand Identity filter shows Forma and Maison Elan",
+      "Forma project dialog opens with both images loaded",
+      "Project dialog close/return works",
+      "Empty form shows field errors; valid demo enquiry explicitly says nothing sent or stored",
+      "Local fonts finish loading",
+      "Cloudflare Vela dialog and images load; Escape closes"
+    ]
+  },
+  "browser": "Chrome",
+  "desktopWidthsObserved": [
+    1366
+  ],
+  "mobileWidthObserved": 375,
+  "consoleWarningsOrErrors": [],
+  "httpReports": [
+    "live-github-http.json",
+    "live-cloudflare-http.json"
+  ],
+  "screenshots": [
+    "live-github-desktop.jpg",
+    "live-github-mobile.jpg",
+    "live-cloudflare-desktop.jpg",
+    "live-cloudflare-mobile.jpg"
+  ],
+  "limitations": [
+    "Dated verification, not ongoing uptime monitoring.",
+    "One-page anchors; project/demo dialogs do not have separate routes.",
+    "All work is fictional; no backend, message delivery, payment or live AI.",
+    "Main-push deployment after this documentation update is verified separately at execution time."
+  ]
+}

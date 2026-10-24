@@ -26,10 +26,10 @@ Verified: repository monExcalibur/atelier-no8-template; origin matches, admin/ma
 
 ## 4. Cloudflare Pages configuration
 
-- [ ] After owner login, inspect the intended account and existing projects; avoid overwriting unrelated projects.
-- [ ] Connect GitHub repository atelier-no8-template using native Git integration, production branch main.
-- [ ] Configure build:cloudflare, dist, Node 22 and root base; enable automatic production deployment.
-- [ ] Resolve the actual project hostname and stable production metadata. Ask only for genuinely required login/installation authorization.
+- [x] After owner login, inspect the intended account and existing projects; avoid overwriting unrelated projects.
+- [x] Connect GitHub repository atelier-no8-template using native Git integration, production branch main.
+- [x] Configure build:cloudflare, dist, Node 22 and root base; enable automatic production deployment.
+- [x] Resolve the actual project hostname and stable production metadata. Ask only for genuinely required login/installation authorization.
 
 ## 5. Build verification
 
@@ -39,20 +39,20 @@ Verified: repository monExcalibur/atelier-no8-template; origin matches, admin/ma
 
 ## 6. Deployment execution
 
-- [ ] Commit/push verified configuration normally, trigger/observe GitHub Actions and fix any failures.
-- [ ] Observe native Cloudflare Git build/deploy logs and confirm a successful production deployment.
+- [x] Commit/push verified configuration normally, trigger/observe GitHub Actions and fix any failures.
+- [x] Observe native Cloudflare Git build/deploy logs and confirm a successful production deployment.
 - [ ] Verify main-push automation on both platforms against source commit IDs.
 
 ## 7. Public URL verification
 
-- [ ] Verify HTTPS and all required resource requests at both actual public URLs.
-- [ ] Open each hosted website in a browser; check desktop/mobile, navigation, menus, demo and project-specific interactions.
-- [ ] Refresh base/hash deep links and check console; do not claim unexecuted checks.
-- [ ] Record screenshots/results and distinguish pending targets from live verified deployments.
+- [x] Verify HTTPS and all required resource requests at both actual public URLs.
+- [x] Open each hosted website in a browser; check desktop/mobile, navigation, menus, demo and project-specific interactions.
+- [x] Refresh base/hash deep links and check console; do not claim unexecuted checks.
+- [x] Record screenshots/results and distinguish pending targets from live verified deployments.
 
 ## 8. Final documentation
 
-- [ ] Update README and deployment guide with actual URLs/status, commands, automation, monitoring and safe rollback instructions.
+- [x] Update README and deployment guide with actual URLs/status, commands, automation, monitoring and safe rollback instructions.
 - [ ] Record results and remaining limits, update this checklist and commit/push final documentation.
 - [ ] Verify the last source commit and hosted deployments, clean Git state, retained notices and unchanged UI/assets.
 
@@ -61,3 +61,7 @@ No URL is considered live until deployment and public testing succeed. Cloudflar
 Architecture/build phases verified: both named targets and all contracts pass; GitHub base derives from actual origin, Cloudflare uses root, and only the GitHub target emits its derived canonical. The new URL test was corrected for standard lowercase hostname normalization and reformatted. Clean npm ci reported zero vulnerabilities; UI/public asset hashes are unchanged. Owner completed Cloudflare login; native Pages source configuration continues in Chrome.
 
 GitHub configuration verified: Pages API build_type=workflow, actual destination https://monexcalibur.github.io/atelier-no8-template/; workflow supports push main and manual dispatch, pinned stable official actions (setup-node v7 refreshed), scoped permissions and dist-only artifact. URL is configured, not yet verified as deployed.
+
+GitHub execution verified: push-triggered Actions run 40089144678 completed successfully (build and deploy). Public homepage, canonical, CSS, JS, favicon and all local public resources returned HTTPS 200; every public asset matched the source bytes. Browser interaction checks remain in progress. Cloudflare native GitHub App installation completed with access limited to these two repositories.
+
+Both public URLs verified on 2026-10-24. HTTP/resource evidence and Chrome desktop/mobile checks are in qa/live-*.json and screenshots. Cloudflare production settings: native GitHub integration, automatic main deployment enabled, npm run build:cloudflare, dist, Node 22, default demo preset, root base and the actual stable pages.dev canonical. The final documentation push will exercise automatic deployment on both hosts.
