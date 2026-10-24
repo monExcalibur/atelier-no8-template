@@ -41,7 +41,7 @@ Verified: repository monExcalibur/atelier-no8-template; origin matches, admin/ma
 
 - [x] Commit/push verified configuration normally, trigger/observe GitHub Actions and fix any failures.
 - [x] Observe native Cloudflare Git build/deploy logs and confirm a successful production deployment.
-- [ ] Verify main-push automation on both platforms against source commit IDs.
+- [x] Verify main-push automation on both platforms against source commit IDs.
 
 ## 7. Public URL verification
 
@@ -53,8 +53,8 @@ Verified: repository monExcalibur/atelier-no8-template; origin matches, admin/ma
 ## 8. Final documentation
 
 - [x] Update README and deployment guide with actual URLs/status, commands, automation, monitoring and safe rollback instructions.
-- [ ] Record results and remaining limits, update this checklist and commit/push final documentation.
-- [ ] Verify the last source commit and hosted deployments, clean Git state, retained notices and unchanged UI/assets.
+- [x] Record results and remaining limits, update this checklist and commit/push final documentation.
+- [x] Verify the last source commit and hosted deployments, clean Git state, retained notices and unchanged UI/assets.
 
 No URL is considered live until deployment and public testing succeed. Cloudflare Git integration will not be silently replaced by direct upload or a different hosting service.
 
@@ -65,3 +65,5 @@ GitHub configuration verified: Pages API build_type=workflow, actual destination
 GitHub execution verified: push-triggered Actions run 40089144678 completed successfully (build and deploy). Public homepage, canonical, CSS, JS, favicon and all local public resources returned HTTPS 200; every public asset matched the source bytes. Browser interaction checks remain in progress. Cloudflare native GitHub App installation completed with access limited to these two repositories.
 
 Both public URLs verified on 2026-10-24. HTTP/resource evidence and Chrome desktop/mobile checks are in qa/live-*.json and screenshots. Cloudflare production settings: native GitHub integration, automatic main deployment enabled, npm run build:cloudflare, dist, Node 22, default demo preset, root base and the actual stable pages.dev canonical. The final documentation push will exercise automatic deployment on both hosts.
+
+Final execution evidence: documentation push abec3afec5bccf9f3b90f339cc73b27490ea4929 automatically completed GitHub Actions run 40092827170 (build/deploy success) and the native Cloudflare Pages check (cloudflare-workers-and-pages, completed/success) for the same SHA. All named builds, TypeScript, lint, formatting, tests and credential/public-asset audit passed again. No source/public asset changed; clean Git state was confirmed after that push. This final checklist/evidence commit is followed by another remote-head and hosted check before the user report. No critical deployment limitation remains; demo/backend/routing limits are documented.
