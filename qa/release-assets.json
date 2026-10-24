@@ -1,0 +1,177 @@
+{
+  "images": [
+    {
+      "file": "public/images/studio-640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 89186,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/studio-1200.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 303764,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/studio-1800.webp",
+      "width": 1800,
+      "height": 2700,
+      "bytes": 622328,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/forma-640.webp",
+      "width": 640,
+      "height": 959,
+      "bytes": 32916,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/forma-1200.webp",
+      "width": 1200,
+      "height": 1798,
+      "bytes": 114110,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/forma-1800.webp",
+      "width": 1800,
+      "height": 2697,
+      "bytes": 222762,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/solstice-640.webp",
+      "width": 640,
+      "height": 425,
+      "bytes": 8374,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/solstice-1200.webp",
+      "width": 1200,
+      "height": 798,
+      "bytes": 21984,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/solstice-1800.webp",
+      "width": 1800,
+      "height": 1196,
+      "bytes": 40390,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/maison-640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 12656,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/maison-1200.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 34360,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/maison-1800.webp",
+      "width": 1800,
+      "height": 2700,
+      "bytes": 64532,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/stillwater-640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 81312,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/stillwater-1200.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 228948,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/stillwater-1800.webp",
+      "width": 1800,
+      "height": 2700,
+      "bytes": 405156,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/objects-640.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 7582,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/objects-1200.webp",
+      "width": 1200,
+      "height": 1800,
+      "bytes": 24402,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/objects-1800.webp",
+      "width": 1800,
+      "height": 2700,
+      "bytes": 75106,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/vela-640.webp",
+      "width": 640,
+      "height": 423,
+      "bytes": 19350,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/vela-1200.webp",
+      "width": 1200,
+      "height": 793,
+      "bytes": 43754,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/vela-1800.webp",
+      "width": 1800,
+      "height": 1189,
+      "bytes": 73234,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/light-640.webp",
+      "width": 640,
+      "height": 800,
+      "bytes": 14112,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/light-1200.webp",
+      "width": 1200,
+      "height": 1500,
+      "bytes": 35640,
+      "format": "webp"
+    },
+    {
+      "file": "public/images/light-1800.webp",
+      "width": 1800,
+      "height": 2250,
+      "bytes": 65882,
+      "format": "webp"
+    }
+  ],
+  "social": {
+    "width": 1200,
+    "height": 630
+  },
+  "notices": "Exact package copies; three matching React MIT notices consolidated."
+}

@@ -1,0 +1,204 @@
+{
+  "base": "/",
+  "cloudflareBuild": true,
+  "portableLocalDefault": "./",
+  "files": [
+    {
+      "file": "assets/index-Di2P-kZt.js",
+      "bytes": 262557,
+      "status": 200
+    },
+    {
+      "file": "assets/index-DuUgZMKp.css",
+      "bytes": 31176,
+      "status": 200
+    },
+    {
+      "file": "favicon.svg",
+      "bytes": 247,
+      "status": 200
+    },
+    {
+      "file": "fonts/body-medium.woff2",
+      "bytes": 14304,
+      "status": 200
+    },
+    {
+      "file": "fonts/body-regular.woff2",
+      "bytes": 14200,
+      "status": 200
+    },
+    {
+      "file": "fonts/cormorant-garamond-LICENSE.txt",
+      "bytes": 4504,
+      "status": 200
+    },
+    {
+      "file": "fonts/display-italic.woff2",
+      "bytes": 23660,
+      "status": 200
+    },
+    {
+      "file": "fonts/display-regular.woff2",
+      "bytes": 22876,
+      "status": 200
+    },
+    {
+      "file": "fonts/dm-sans-LICENSE.txt",
+      "bytes": 4502,
+      "status": 200
+    },
+    {
+      "file": "image-credits.html",
+      "bytes": 2921,
+      "status": 200
+    },
+    {
+      "file": "images/forma-1200.webp",
+      "bytes": 114110,
+      "status": 200
+    },
+    {
+      "file": "images/forma-1800.webp",
+      "bytes": 222762,
+      "status": 200
+    },
+    {
+      "file": "images/forma-640.webp",
+      "bytes": 32916,
+      "status": 200
+    },
+    {
+      "file": "images/light-1200.webp",
+      "bytes": 35640,
+      "status": 200
+    },
+    {
+      "file": "images/light-1800.webp",
+      "bytes": 65882,
+      "status": 200
+    },
+    {
+      "file": "images/light-640.webp",
+      "bytes": 14112,
+      "status": 200
+    },
+    {
+      "file": "images/maison-1200.webp",
+      "bytes": 34360,
+      "status": 200
+    },
+    {
+      "file": "images/maison-1800.webp",
+      "bytes": 64532,
+      "status": 200
+    },
+    {
+      "file": "images/maison-640.webp",
+      "bytes": 12656,
+      "status": 200
+    },
+    {
+      "file": "images/objects-1200.webp",
+      "bytes": 24402,
+      "status": 200
+    },
+    {
+      "file": "images/objects-1800.webp",
+      "bytes": 75106,
+      "status": 200
+    },
+    {
+      "file": "images/objects-640.webp",
+      "bytes": 7582,
+      "status": 200
+    },
+    {
+      "file": "images/social-preview.jpg",
+      "bytes": 72710,
+      "status": 200
+    },
+    {
+      "file": "images/solstice-1200.webp",
+      "bytes": 21984,
+      "status": 200
+    },
+    {
+      "file": "images/solstice-1800.webp",
+      "bytes": 40390,
+      "status": 200
+    },
+    {
+      "file": "images/solstice-640.webp",
+      "bytes": 8374,
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-1200.webp",
+      "bytes": 228948,
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-1800.webp",
+      "bytes": 405156,
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-640.webp",
+      "bytes": 81312,
+      "status": 200
+    },
+    {
+      "file": "images/studio-1200.webp",
+      "bytes": 303764,
+      "status": 200
+    },
+    {
+      "file": "images/studio-1800.webp",
+      "bytes": 622328,
+      "status": 200
+    },
+    {
+      "file": "images/studio-640.webp",
+      "bytes": 89186,
+      "status": 200
+    },
+    {
+      "file": "images/vela-1200.webp",
+      "bytes": 43754,
+      "status": 200
+    },
+    {
+      "file": "images/vela-1800.webp",
+      "bytes": 73234,
+      "status": 200
+    },
+    {
+      "file": "images/vela-640.webp",
+      "bytes": 19350,
+      "status": 200
+    },
+    {
+      "file": "index.html",
+      "bytes": 1589,
+      "status": 200
+    },
+    {
+      "file": "licenses/lucide-LICENSE.txt",
+      "bytes": 3208,
+      "status": 200
+    },
+    {
+      "file": "licenses/react-MIT.txt",
+      "bytes": 1088,
+      "status": 200
+    }
+  ],
+  "totalBytes": 3101382,
+  "developmentReferences": [],
+  "metadata": {
+    "rootScript": true,
+    "rootFavicon": true,
+    "canonicalOmitted": true
+  }
+}

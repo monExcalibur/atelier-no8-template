@@ -1,0 +1,464 @@
+[
+  {
+    "name": "Responsive 320",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 305,
+      "scroll": 305,
+      "width": 320
+    }
+  },
+  {
+    "name": "Responsive 375",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 360,
+      "scroll": 360,
+      "width": 375
+    }
+  },
+  {
+    "name": "Responsive 768",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 753,
+      "scroll": 753,
+      "width": 768
+    }
+  },
+  {
+    "name": "Responsive 1024",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 1009,
+      "scroll": 1009,
+      "width": 1024
+    }
+  },
+  {
+    "name": "Responsive 1440",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 1425,
+      "scroll": 1425,
+      "width": 1440
+    }
+  },
+  {
+    "name": "Responsive 1920",
+    "passed": true,
+    "details": {
+      "bounds": [],
+      "client": 1905,
+      "scroll": 1905,
+      "width": 1920
+    }
+  },
+  {
+    "name": "Default demo and anchors",
+    "passed": true,
+    "details": {
+      "broken": 0,
+      "concepts": 6,
+      "demo": "Independent studio · Demo template",
+      "h1": 1,
+      "projects": 6
+    }
+  },
+  {
+    "name": "Detail Forma",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Forma"
+    }
+  },
+  {
+    "name": "Escape Forma",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Forma",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Detail Solstice",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Solstice"
+    }
+  },
+  {
+    "name": "Escape Solstice",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Solstice",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Detail Maison Élan",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Maison Élan"
+    }
+  },
+  {
+    "name": "Escape Maison Élan",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Maison Élan",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Detail Stillwater",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Stillwater"
+    }
+  },
+  {
+    "name": "Escape Stillwater",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Stillwater",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Detail Objects & Space",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Objects & Space"
+    }
+  },
+  {
+    "name": "Escape Objects & Space",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Objects & Space",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Detail Vela",
+    "passed": true,
+    "details": {
+      "brief": true,
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Vela"
+    }
+  },
+  {
+    "name": "Escape Vela",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Vela",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Filter 1",
+    "passed": true,
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "name": "Filter 2",
+    "passed": true,
+    "details": {
+      "count": 2
+    }
+  },
+  {
+    "name": "Filter 3",
+    "passed": true,
+    "details": {
+      "count": 1
+    }
+  },
+  {
+    "name": "Filter 4",
+    "passed": true,
+    "details": {
+      "count": 1
+    }
+  },
+  {
+    "name": "Navigation Work",
+    "passed": true,
+    "details": {
+      "hash": "#portfolio"
+    }
+  },
+  {
+    "name": "Navigation Studio",
+    "passed": true,
+    "details": {
+      "hash": "#about"
+    }
+  },
+  {
+    "name": "Navigation Services",
+    "passed": true,
+    "details": {
+      "hash": "#services"
+    }
+  },
+  {
+    "name": "Navigation Contact",
+    "passed": true,
+    "details": {
+      "hash": "#contact"
+    }
+  },
+  {
+    "name": "Required form validation",
+    "passed": true,
+    "details": {
+      "focus": "name",
+      "invalid": 4
+    }
+  },
+  {
+    "name": "Invalid email validation",
+    "passed": true,
+    "details": {
+      "focus": "email",
+      "invalid": 1
+    }
+  },
+  {
+    "name": "Honest demo submission",
+    "passed": true,
+    "details": {
+      "draft": false,
+      "text": "Your enquiry is ready to preview. This is a demonstration: nothing has been sent or stored."
+    }
+  },
+  {
+    "name": "Service disclosure 1",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Service disclosure 2",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Service disclosure 3",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Service disclosure 4",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Service disclosure 5",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Mobile menu open",
+    "passed": true,
+    "details": {
+      "focus": "Close menu",
+      "links": 4,
+      "open": true
+    }
+  },
+  {
+    "name": "Mobile menu Escape",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Mobile Work navigation",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "All page images and local runtime assets",
+    "passed": true,
+    "details": {
+      "duplicateIds": [],
+      "external": [],
+      "images": [
+        {
+          "alt": "Warm minimalist interior with a linen sofa, woven stools and natural textures",
+          "height": "1800",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Sculptural wire chair on a warm beige carpet",
+          "height": "1798",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Orange Sossusvlei dunes with long, sculptural shadows",
+          "height": "798",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "White flower and geometric ceramic forms against an ochre backdrop",
+          "height": "1800",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Minimal contemporary villa with a reflective pool and natural materials",
+          "height": "1800",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Minimal still life of white ceramic vessels on a softly textured background",
+          "height": "1800",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Amber glass bottle with a blank label, styled with botanical elements",
+          "height": "793",
+          "loaded": true,
+          "width": "1200"
+        },
+        {
+          "alt": "Natural light casting geometric shadows across a textured architectural interior",
+          "height": "1500",
+          "loaded": true,
+          "width": "1200"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Production console clean",
+    "passed": true,
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "name": "Pages subpath, canonical and local hero",
+    "passed": true,
+    "details": {
+      "broken": 0,
+      "canonical": "https://portfolio-qa.example/atelier-no8/",
+      "hero": "http://127.0.0.1:4198/atelier-no8/images/studio-640.webp",
+      "ogImage": "https://portfolio-qa.example/atelier-no8/images/social-preview.jpg",
+      "projects": 6,
+      "url": "http://127.0.0.1:4198/atelier-no8/"
+    }
+  },
+  {
+    "name": "Direct subpath refresh",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Subpath project dialog",
+    "passed": true,
+    "details": {}
+  },
+  {
+    "name": "Subpath mobile demo",
+    "passed": true,
+    "details": {
+      "client": 360,
+      "demo": "Demo template",
+      "scroll": 360,
+      "width": 375
+    }
+  },
+  {
+    "name": "Subpath console clean",
+    "passed": true,
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "name": "Final portable production render",
+    "passed": true,
+    "details": {
+      "canonical": null,
+      "demo": true,
+      "fonts": [],
+      "h1": "Thoughtful design.\nLasting impressions.",
+      "heroLoaded": true,
+      "overflow": false,
+      "script": "./assets/index-_bBaLV39.js",
+      "title": "Atelier No. 8 — Thoughtful design. Lasting impressions."
+    }
+  },
+  {
+    "name": "Credits link opens in new tab and returns to portfolio",
+    "passed": true,
+    "details": {
+      "fictional": true,
+      "heading": "A note on the imagery.",
+      "localLicenses": 2
+    }
+  },
+  {
+    "name": "Final portable mobile render",
+    "passed": true,
+    "details": {
+      "client": 360,
+      "demo": true,
+      "formValues": [],
+      "heading": "Thoughtful design.\nLasting impressions.",
+      "openDialogs": 0,
+      "scroll": 360,
+      "width": 375
+    }
+  },
+  {
+    "name": "Final portable console clean",
+    "passed": true,
+    "details": {
+      "count": 0
+    }
+  }
+]

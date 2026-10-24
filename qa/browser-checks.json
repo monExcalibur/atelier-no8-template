@@ -1,0 +1,717 @@
+[
+  {
+    "name": "Default content, six projects, local hero and valid anchors",
+    "passed": true,
+    "details": {
+      "brokenAnchors": [],
+      "client": 1425,
+      "duplicateIds": [],
+      "heroLoaded": true,
+      "projects": 6,
+      "scroll": 1425,
+      "title": "Atelier No. 8 — Thoughtful design. Lasting impressions.",
+      "width": 1440
+    }
+  },
+  {
+    "name": "Work navigation reaches selected work",
+    "passed": true,
+    "details": {
+      "hash": "#portfolio",
+      "top": 32.025001525878906
+    }
+  },
+  {
+    "name": "Gallery filter Brand Identity",
+    "passed": true,
+    "details": {
+      "count": 2,
+      "pressed": 1,
+      "titles": [
+        "FormaBrand Identity / 2026",
+        "Maison ÉlanBrand Identity / 2025"
+      ]
+    }
+  },
+  {
+    "name": "Gallery filter Art Direction",
+    "passed": true,
+    "details": {
+      "count": 2,
+      "pressed": 1,
+      "titles": [
+        "StillwaterArt Direction / 2025",
+        "Objects & SpaceArt Direction / 2025"
+      ]
+    }
+  },
+  {
+    "name": "Gallery filter Photography",
+    "passed": true,
+    "details": {
+      "count": 1,
+      "pressed": 1,
+      "titles": [
+        "SolsticePhotography / 2026"
+      ]
+    }
+  },
+  {
+    "name": "Gallery filter Packaging",
+    "passed": true,
+    "details": {
+      "count": 1,
+      "pressed": 1,
+      "titles": [
+        "VelaPackaging / 2026"
+      ]
+    }
+  },
+  {
+    "name": "Forma opens with native modality, detail content and initial close focus",
+    "passed": true,
+    "details": {
+      "focus": "Close project",
+      "heading": "Forma",
+      "images": 2
+    }
+  },
+  {
+    "name": "Dialog reverse Tab wraps to last control",
+    "passed": true,
+    "details": {
+      "inside": true,
+      "text": "Back to selected work"
+    }
+  },
+  {
+    "name": "Dialog forward Tab wraps to first control",
+    "passed": true,
+    "details": {
+      "inside": true,
+      "isFirst": true
+    }
+  },
+  {
+    "name": "Escape closes dialog, restores opener focus and scroll",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Forma",
+      "lock": ""
+    }
+  },
+  {
+    "name": "Project detail Solstice",
+    "passed": true,
+    "details": {
+      "brief": "Develop an editorial direction for a photographic journal about the shapes that light leaves behind.",
+      "concept": "Fictional concept. Licensed stock imagery illustrates the creative direction; it is not commissioned client work.",
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Solstice"
+    }
+  },
+  {
+    "name": "Close returns focus Solstice",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Solstice"
+    }
+  },
+  {
+    "name": "Project detail Maison Élan",
+    "passed": true,
+    "details": {
+      "brief": "Create a visual language for an imagined collection of thoughtfully made objects for the home.",
+      "concept": "Fictional concept. Licensed stock imagery illustrates the creative direction; it is not commissioned client work.",
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Maison Élan"
+    }
+  },
+  {
+    "name": "Close returns focus Maison Élan",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Maison Élan"
+    }
+  },
+  {
+    "name": "Project detail Stillwater",
+    "passed": true,
+    "details": {
+      "brief": "Imagine a boutique retreat with an identity as calm and considered as the space itself.",
+      "concept": "Fictional concept. Licensed stock imagery illustrates the creative direction; it is not commissioned client work.",
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Stillwater"
+    }
+  },
+  {
+    "name": "Close returns focus Stillwater",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Stillwater"
+    }
+  },
+  {
+    "name": "Project detail Objects & Space",
+    "passed": true,
+    "details": {
+      "brief": "Build a still-life art direction concept around the dialogue between sculptural objects and negative space.",
+      "concept": "Fictional concept. Licensed stock imagery illustrates the creative direction; it is not commissioned client work.",
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Objects & Space"
+    }
+  },
+  {
+    "name": "Close returns focus Objects & Space",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Objects & Space"
+    }
+  },
+  {
+    "name": "Project detail Vela",
+    "passed": true,
+    "details": {
+      "brief": "Explore an understated packaging direction for an imagined contemporary skincare brand.",
+      "concept": "Fictional concept. Licensed stock imagery illustrates the creative direction; it is not commissioned client work.",
+      "focus": "Close project",
+      "images": 2,
+      "open": true,
+      "title": "Vela"
+    }
+  },
+  {
+    "name": "Close returns focus Vela",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "View project: Vela"
+    }
+  },
+  {
+    "name": "Empty contact form exposes four errors and focuses name",
+    "passed": true,
+    "details": {
+      "focus": "name",
+      "invalid": 4,
+      "status": "Please review the highlighted fields."
+    }
+  },
+  {
+    "name": "Malformed email is rejected in the rendered form",
+    "passed": true,
+    "details": {
+      "emailError": "Please enter a valid email address.",
+      "focus": "email",
+      "invalid": 1
+    }
+  },
+  {
+    "name": "Valid demo enquiry confirms no send/storage and preserves fields",
+    "passed": true,
+    "details": {
+      "fields": [
+        "Alex Demo",
+        "<redacted>",
+        "A thoughtful visual identity for a small independent furniture collection."
+      ],
+      "invalid": 0,
+      "status": "Your enquiry is ready to preview. This is a demonstration: nothing has been sent or stored."
+    }
+  },
+  {
+    "name": "Mobile menu opens with four links and initial close focus",
+    "passed": true,
+    "details": {
+      "focus": "Close menu",
+      "links": 4,
+      "open": true
+    }
+  },
+  {
+    "name": "Mobile Escape returns focus to menu toggle",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "focus": "Open menu"
+    }
+  },
+  {
+    "name": "Mobile Studio navigation closes the menu and reaches the section",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "hash": "#about",
+      "top": 19.700000762939453
+    }
+  },
+  {
+    "name": "Service disclosure 1",
+    "passed": true,
+    "details": {
+      "detail": "Positioning · Visual systems · Brand guidelines",
+      "open": true
+    }
+  },
+  {
+    "name": "Service disclosure 2",
+    "passed": true,
+    "details": {
+      "detail": "Creative concepts · Image direction · Campaign systems",
+      "open": true
+    }
+  },
+  {
+    "name": "Service disclosure 3",
+    "passed": true,
+    "details": {
+      "detail": "Publications · Lookbooks · Print collateral",
+      "open": true
+    }
+  },
+  {
+    "name": "Service disclosure 4",
+    "passed": true,
+    "details": {
+      "detail": "Concept development · Shoot direction · Image selection",
+      "open": true
+    }
+  },
+  {
+    "name": "Service disclosure 5",
+    "passed": true,
+    "details": {
+      "detail": "Web design · Interaction design · Creative development",
+      "open": true
+    }
+  },
+  {
+    "name": "Responsive default 320px",
+    "passed": true,
+    "details": {
+      "client": 305,
+      "hero": "43px",
+      "menu": "flex",
+      "overflowing": [],
+      "scroll": 305,
+      "width": 320,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Responsive default 375px",
+    "passed": true,
+    "details": {
+      "client": 360,
+      "hero": "49px",
+      "menu": "flex",
+      "overflowing": [],
+      "scroll": 360,
+      "width": 375,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Responsive default 768px",
+    "passed": true,
+    "details": {
+      "client": 753,
+      "hero": "62px",
+      "menu": "none",
+      "overflowing": [],
+      "scroll": 753,
+      "width": 768,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Responsive default 1024px",
+    "passed": true,
+    "details": {
+      "client": 1009,
+      "hero": "74.752px",
+      "menu": "none",
+      "overflowing": [],
+      "scroll": 1009,
+      "width": 1024,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Responsive default 1440px",
+    "passed": true,
+    "details": {
+      "client": 1425,
+      "hero": "101.52px",
+      "menu": "none",
+      "overflowing": [],
+      "scroll": 1425,
+      "width": 1440,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Responsive default 1920px",
+    "passed": true,
+    "details": {
+      "client": 1905,
+      "hero": "128px",
+      "menu": "none",
+      "overflowing": [],
+      "scroll": 1905,
+      "width": 1920,
+      "build": "Final relative-base production build"
+    }
+  },
+  {
+    "name": "Mobile wordmark closes menu and navigates home",
+    "passed": true,
+    "details": {
+      "dialogs": 0,
+      "hash": "#home"
+    }
+  },
+  {
+    "name": "320px project detail fits and remains keyboard accessible",
+    "passed": true,
+    "details": {
+      "client": 285,
+      "dialogWidth": 300,
+      "focus": "Close project",
+      "height": 880,
+      "open": true,
+      "scroll": 285,
+      "viewport": 900,
+      "width": 320
+    }
+  },
+  {
+    "name": "Production subpath uses local assets and correct static title",
+    "passed": true,
+    "details": {
+      "base": "/atelier/"
+    }
+  },
+  {
+    "name": "Production subpath survives direct refresh",
+    "passed": true,
+    "details": {
+      "url": "http://127.0.0.1:4195/atelier/#home"
+    }
+  },
+  {
+    "name": "Nord configuration changes brand, theme, services and projects; hidden sections remove nav",
+    "passed": true,
+    "details": {
+      "accent": "#4f6454",
+      "brand": "NordStudio",
+      "broken": 0,
+      "demo": false,
+      "heading": "Considered spaces.A slower way of life.",
+      "nav": [
+        "#portfolio",
+        "#services",
+        "#contact"
+      ],
+      "projects": [
+        "Courtyard HouseArchitecture / 2026",
+        "Linen ResidenceInteriors / 2026",
+        "Object StudiesObjects / 2025"
+      ],
+      "sections": [
+        "hero",
+        "portfolio",
+        "services",
+        "contact"
+      ],
+      "title": "Nord Studio — Spaces for a slower life."
+    }
+  },
+  {
+    "name": "Disabling demo without a contact destination explains unavailable delivery",
+    "passed": true,
+    "details": {
+      "status": "Enquiries are not configured for this edition. No message has been sent.",
+      "retest": "Keyboard activation after a coordinate click during smooth scrolling did not activate the form"
+    }
+  },
+  {
+    "name": "All section flags remove sections, nav, CTA anchors and empty space",
+    "passed": true,
+    "details": {
+      "broken": 0,
+      "h1": "Atelier No. 8 — Thoughtful design. Lasting impressions.",
+      "links": 0,
+      "mainHeight": 0,
+      "menu": false,
+      "sections": 0
+    }
+  },
+  {
+    "name": "Configured client contact prepares an encoded draft without navigation or sending",
+    "passed": true,
+    "details": {
+      "concepts": 6,
+      "demo": false,
+      "href": "mailto:studio@example.com?subject=New%20project%20enquiry%3A%20Brand%20identity&body=Your%20name%3A%20Alex%20Demo%0AEmail%20address%3A%20alex%40example.com%0AWhat%20are%20you%20thinking%3F%3A%20Brand%20identity%0A%0AA%20visual%20identity%20for%20an%20independent%20studio.%0ANatural%20materials%20%26%20thoughtful%20typography.",
+      "status": "Your email draft is ready. Open it in your email app, review it, then send it yourself. Nothing has been sent by this website.Open email draft",
+      "url": "http://127.0.0.1:4195/client/"
+    }
+  },
+  {
+    "name": "Editing an enquiry removes stale prepared draft",
+    "passed": true,
+    "details": {
+      "field": "name"
+    }
+  },
+  {
+    "name": "Configured client form has no overflow at 320px",
+    "passed": true,
+    "details": {
+      "client": 305,
+      "pair": "272.8px",
+      "scroll": 305,
+      "width": 320
+    }
+  },
+  {
+    "name": "Alternative brand and three projects fit at 320px",
+    "passed": true,
+    "details": {
+      "client": 305,
+      "projects": 3,
+      "scroll": 305,
+      "width": 320
+    }
+  },
+  {
+    "name": "Alternative configuration fits desktop and renders architecture services",
+    "passed": true,
+    "details": {
+      "client": 1425,
+      "scroll": 1425,
+      "services": [
+        "Architecture",
+        "Interior Design",
+        "Furniture & Objects",
+        "Material Direction",
+        "Spatial Identity"
+      ],
+      "width": 1440
+    }
+  },
+  {
+    "name": "All eight page images load locally with dimensions and descriptive alt text",
+    "passed": true,
+    "details": {
+      "h1": 1,
+      "images": [
+        {
+          "alt": "Warm minimalist interior with a linen sofa, woven stools and natural textures",
+          "height": "1800",
+          "lazy": "eager",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/studio-640.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Sculptural wire chair on a warm beige carpet",
+          "height": "1798",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/forma-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Orange Sossusvlei dunes with long, sculptural shadows",
+          "height": "798",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/solstice-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "White flower and geometric ceramic forms against an ochre backdrop",
+          "height": "1800",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/maison-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Minimal contemporary villa with a reflective pool and natural materials",
+          "height": "1800",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/stillwater-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Minimal still life of white ceramic vessels on a softly textured background",
+          "height": "1800",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/objects-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Amber glass bottle with a blank label, styled with botanical elements",
+          "height": "793",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/vela-1200.webp",
+          "width": "1200"
+        },
+        {
+          "alt": "Natural light casting geometric shadows across a textured architectural interior",
+          "height": "1500",
+          "lazy": "lazy",
+          "loaded": true,
+          "source": "http://127.0.0.1:4195/atelier/images/light-640.webp",
+          "width": "1200"
+        }
+      ],
+      "labels": true,
+      "unrevealed": 0
+    }
+  },
+  {
+    "name": "Page has one h1 and every form control has an explicit label",
+    "passed": true,
+    "details": {
+      "h1": 1,
+      "labels": true
+    }
+  },
+  {
+    "name": "Keyboard skip link focuses main content",
+    "passed": true,
+    "details": {
+      "focus": "main",
+      "hash": "#main"
+    }
+  },
+  {
+    "name": "Current production browser console has no warnings or errors",
+    "passed": true,
+    "details": {
+      "count": 0
+    }
+  },
+  {
+    "name": "Disabled work/services remove dependent CTAs while hero/studio remain",
+    "passed": true,
+    "details": {
+      "broken": 0,
+      "heroCta": false,
+      "nav": [
+        "#about",
+        "#contact"
+      ],
+      "sections": [
+        "hero",
+        "about",
+        "process",
+        "contact"
+      ],
+      "studioCta": false
+    }
+  },
+  {
+    "name": "Final relative-base build renders default brand, local hero and 44px wordmark",
+    "passed": true,
+    "details": {
+      "client": 1425,
+      "demo": "block",
+      "hero": "http://127.0.0.1:4196/images/studio-640.webp",
+      "scroll": 1425,
+      "title": "Atelier No. 8 — Thoughtful design. Lasting impressions.",
+      "width": 1440,
+      "wordmarkHeight": 44
+    }
+  },
+  {
+    "name": "Final production images, reveal completion and local resources",
+    "passed": true,
+    "details": {
+      "allLoaded": true,
+      "controls": [
+        {
+          "height": 44,
+          "id": "name"
+        },
+        {
+          "height": 44,
+          "id": "email"
+        },
+        {
+          "height": 44,
+          "id": "projectType"
+        }
+      ],
+      "external": [],
+      "unrevealed": 0
+    }
+  },
+  {
+    "name": "Final production native dialog is centered and focuses Close",
+    "passed": true,
+    "details": {
+      "focus": "Close project",
+      "left": 160,
+      "open": true,
+      "right": 1280,
+      "width": 1440
+    }
+  },
+  {
+    "name": "Final production Escape restores project opener and page scroll",
+    "passed": true,
+    "details": {
+      "dialog": 0,
+      "focus": "View project: Forma",
+      "overflow": ""
+    }
+  },
+  {
+    "name": "Final mobile layout shows readable demo label, touch menu and 16px inputs",
+    "passed": true,
+    "details": {
+      "client": 360,
+      "demo": "block",
+      "demoText": "Demo template",
+      "demoWidth": 60.47500228881836,
+      "fields": [
+        "16px",
+        "16px",
+        "16px",
+        "16px"
+      ],
+      "menuHeight": 46,
+      "scroll": 360,
+      "width": 375,
+      "retest": "Checked rendered visibility; flex items compute inline span display as block"
+    }
+  },
+  {
+    "name": "Final default production console remains clean",
+    "passed": true,
+    "details": {
+      "count": 0
+    }
+  }
+]

@@ -1,0 +1,1104 @@
+{
+  "results": [
+    {
+      "fixture": "cloudflare-root",
+      "files": [
+        {
+          "file": "assets/index-C74U0MdY.js",
+          "status": 200
+        },
+        {
+          "file": "assets/index-DuUgZMKp.css",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "atelier-no8",
+      "files": [
+        {
+          "file": "assets/index-4swXWW42.css",
+          "status": 200
+        },
+        {
+          "file": "assets/index-BCJzp-yK.js",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "atelier",
+      "files": [
+        {
+          "file": "assets/index-BO_2pdy_.css",
+          "status": 200
+        },
+        {
+          "file": "assets/index-Bwewm5Eg.js",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "nord",
+      "files": [
+        {
+          "file": "assets/index-DP0UOjOf.js",
+          "status": 200
+        },
+        {
+          "file": "assets/index-SuQIEvqE.css",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "partial",
+      "files": [
+        {
+          "file": "assets/index-a2ebDjkB.css",
+          "status": 200
+        },
+        {
+          "file": "assets/index-I3lzHNJc.js",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "hidden",
+      "files": [
+        {
+          "file": "assets/index-7YybX15k.js",
+          "status": 200
+        },
+        {
+          "file": "assets/index-DXRc22Xn.css",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    },
+    {
+      "fixture": "client",
+      "files": [
+        {
+          "file": "assets/index-C74R3C3t.css",
+          "status": 200
+        },
+        {
+          "file": "assets/index-CFZ76hUV.js",
+          "status": 200
+        },
+        {
+          "file": "favicon.svg",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-medium.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/body-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/cormorant-garamond-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-italic.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/display-regular.woff2",
+          "status": 200
+        },
+        {
+          "file": "fonts/dm-sans-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "image-credits.html",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/forma-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/light-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/maison-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/objects-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/social-preview.jpg",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/solstice-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/stillwater-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/studio-640.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1200.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-1800.webp",
+          "status": 200
+        },
+        {
+          "file": "images/vela-640.webp",
+          "status": 200
+        },
+        {
+          "file": "index.html",
+          "status": 200
+        },
+        {
+          "file": "licenses/lucide-LICENSE.txt",
+          "status": 200
+        },
+        {
+          "file": "licenses/react-MIT.txt",
+          "status": 200
+        }
+      ]
+    }
+  ],
+  "failures": []
+}

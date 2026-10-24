@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "cloudflareRootScript": true,
+    "cloudflareRootFavicon": true,
+    "cloudflareCanonical": true,
+    "githubScript": true,
+    "githubCanonical": true,
+    "conflictingCliBaseRejected": true
+  },
+  "cloudflareQaOrigin": "https://release-qa.example/",
+  "remoteDeployment": false
+}

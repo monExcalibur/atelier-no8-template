@@ -1,0 +1,203 @@
+{
+  "base": "./",
+  "fileCount": 37,
+  "totalBytes": 3100563,
+  "files": [
+    {
+      "file": "assets/index-CKrbtWal.css",
+      "status": 200,
+      "bytes": 31184
+    },
+    {
+      "file": "assets/index-_bBaLV39.js",
+      "status": 200,
+      "bytes": 262489
+    },
+    {
+      "file": "favicon.svg",
+      "status": 200,
+      "bytes": 247
+    },
+    {
+      "file": "fonts/body-medium.woff2",
+      "status": 200,
+      "bytes": 14304
+    },
+    {
+      "file": "fonts/body-regular.woff2",
+      "status": 200,
+      "bytes": 14200
+    },
+    {
+      "file": "fonts/cormorant-garamond-LICENSE.txt",
+      "status": 200,
+      "bytes": 4504
+    },
+    {
+      "file": "fonts/display-italic.woff2",
+      "status": 200,
+      "bytes": 23660
+    },
+    {
+      "file": "fonts/display-regular.woff2",
+      "status": 200,
+      "bytes": 22876
+    },
+    {
+      "file": "fonts/dm-sans-LICENSE.txt",
+      "status": 200,
+      "bytes": 4502
+    },
+    {
+      "file": "image-credits.html",
+      "status": 200,
+      "bytes": 2803
+    },
+    {
+      "file": "images/forma-1200.webp",
+      "status": 200,
+      "bytes": 114110
+    },
+    {
+      "file": "images/forma-1800.webp",
+      "status": 200,
+      "bytes": 222762
+    },
+    {
+      "file": "images/forma-640.webp",
+      "status": 200,
+      "bytes": 32916
+    },
+    {
+      "file": "images/light-1200.webp",
+      "status": 200,
+      "bytes": 35640
+    },
+    {
+      "file": "images/light-1800.webp",
+      "status": 200,
+      "bytes": 65882
+    },
+    {
+      "file": "images/light-640.webp",
+      "status": 200,
+      "bytes": 14112
+    },
+    {
+      "file": "images/maison-1200.webp",
+      "status": 200,
+      "bytes": 34360
+    },
+    {
+      "file": "images/maison-1800.webp",
+      "status": 200,
+      "bytes": 64532
+    },
+    {
+      "file": "images/maison-640.webp",
+      "status": 200,
+      "bytes": 12656
+    },
+    {
+      "file": "images/manifest.json",
+      "status": 200,
+      "bytes": 3650
+    },
+    {
+      "file": "images/objects-1200.webp",
+      "status": 200,
+      "bytes": 24402
+    },
+    {
+      "file": "images/objects-1800.webp",
+      "status": 200,
+      "bytes": 75106
+    },
+    {
+      "file": "images/objects-640.webp",
+      "status": 200,
+      "bytes": 7582
+    },
+    {
+      "file": "images/social-preview.jpg",
+      "status": 200,
+      "bytes": 72710
+    },
+    {
+      "file": "images/solstice-1200.webp",
+      "status": 200,
+      "bytes": 21984
+    },
+    {
+      "file": "images/solstice-1800.webp",
+      "status": 200,
+      "bytes": 40390
+    },
+    {
+      "file": "images/solstice-640.webp",
+      "status": 200,
+      "bytes": 8374
+    },
+    {
+      "file": "images/stillwater-1200.webp",
+      "status": 200,
+      "bytes": 228948
+    },
+    {
+      "file": "images/stillwater-1800.webp",
+      "status": 200,
+      "bytes": 405156
+    },
+    {
+      "file": "images/stillwater-640.webp",
+      "status": 200,
+      "bytes": 81312
+    },
+    {
+      "file": "images/studio-1200.webp",
+      "status": 200,
+      "bytes": 303764
+    },
+    {
+      "file": "images/studio-1800.webp",
+      "status": 200,
+      "bytes": 622328
+    },
+    {
+      "file": "images/studio-640.webp",
+      "status": 200,
+      "bytes": 89186
+    },
+    {
+      "file": "images/vela-1200.webp",
+      "status": 200,
+      "bytes": 43754
+    },
+    {
+      "file": "images/vela-1800.webp",
+      "status": 200,
+      "bytes": 73234
+    },
+    {
+      "file": "images/vela-640.webp",
+      "status": 200,
+      "bytes": 19350
+    },
+    {
+      "file": "index.html",
+      "status": 200,
+      "bytes": 1594
+    }
+  ],
+  "developmentReferences": [],
+  "metadata": {
+    "relativeScript": true,
+    "relativeFavicon": true,
+    "noInventedCanonical": true,
+    "noQaOrigin": true
+  },
+  "preservation": {
+    "compared": 46,
+    "changed": []
+  }
+}

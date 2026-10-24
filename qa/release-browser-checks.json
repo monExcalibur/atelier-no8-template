@@ -1,0 +1,570 @@
+{
+  "checks": [
+    {
+      "name": "Default concept content and root metadata",
+      "passed": true,
+      "details": {
+        "base": "/assets/index-C74U0MdY.js",
+        "canonical": "https://release-qa.example/",
+        "concepts": 6,
+        "h1": 1,
+        "projects": 6,
+        "selectorCorrection": "Count h1 directly; the browser role locator does not support a level filter."
+      }
+    },
+    {
+      "name": "Responsive 320",
+      "passed": true,
+      "details": {
+        "client": 305,
+        "outside": [],
+        "scroll": 305,
+        "width": 320
+      }
+    },
+    {
+      "name": "Responsive 375",
+      "passed": true,
+      "details": {
+        "client": 360,
+        "outside": [],
+        "scroll": 360,
+        "width": 375
+      }
+    },
+    {
+      "name": "Responsive 768",
+      "passed": true,
+      "details": {
+        "client": 753,
+        "outside": [],
+        "scroll": 753,
+        "width": 768
+      }
+    },
+    {
+      "name": "Responsive 1024",
+      "passed": true,
+      "details": {
+        "client": 1009,
+        "outside": [],
+        "scroll": 1009,
+        "width": 1024
+      }
+    },
+    {
+      "name": "Responsive 1440",
+      "passed": true,
+      "details": {
+        "client": 1425,
+        "outside": [],
+        "scroll": 1425,
+        "width": 1440
+      }
+    },
+    {
+      "name": "Responsive 1920",
+      "passed": true,
+      "details": {
+        "client": 1905,
+        "outside": [],
+        "scroll": 1905,
+        "width": 1920
+      }
+    },
+    {
+      "name": "Desktop navigation Work",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Desktop navigation Studio",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Desktop navigation Services",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Desktop navigation Contact",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Project dialog Forma",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "scroll": 1252,
+        "title": "Forma"
+      }
+    },
+    {
+      "name": "Dialog keyboard focus wraps both directions",
+      "passed": true,
+      "details": {
+        "last": true,
+        "first": true,
+        "reverse": true
+      }
+    },
+    {
+      "name": "Escape and opener focus Forma",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Forma",
+        "overflow": "",
+        "scroll": 1244.800048828125,
+        "note": "Focus restored; a 7.2px scroll adjustment followed the preceding smooth navigation."
+      }
+    },
+    {
+      "name": "Project dialog Solstice",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "title": "Solstice"
+      }
+    },
+    {
+      "name": "Escape and opener focus Solstice",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Solstice",
+        "overflow": ""
+      }
+    },
+    {
+      "name": "Project dialog Maison Élan",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "title": "Maison Élan"
+      }
+    },
+    {
+      "name": "Escape and opener focus Maison Élan",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Maison Élan",
+        "overflow": ""
+      }
+    },
+    {
+      "name": "Project dialog Stillwater",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "title": "Stillwater"
+      }
+    },
+    {
+      "name": "Escape and opener focus Stillwater",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Stillwater",
+        "overflow": ""
+      }
+    },
+    {
+      "name": "Project dialog Objects & Space",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "title": "Objects & Space"
+      }
+    },
+    {
+      "name": "Escape and opener focus Objects & Space",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Objects & Space",
+        "overflow": ""
+      }
+    },
+    {
+      "name": "Project dialog Vela",
+      "passed": true,
+      "details": {
+        "brief": true,
+        "concept": true,
+        "focus": "Close project",
+        "images": 2,
+        "title": "Vela"
+      }
+    },
+    {
+      "name": "Escape and opener focus Vela",
+      "passed": true,
+      "details": {
+        "dialogs": 0,
+        "focus": "View project: Vela",
+        "overflow": ""
+      }
+    },
+    {
+      "name": "Filter Brand Identity",
+      "passed": true,
+      "details": {
+        "expected": 2
+      }
+    },
+    {
+      "name": "Filter Art Direction",
+      "passed": true,
+      "details": {
+        "expected": 2
+      }
+    },
+    {
+      "name": "Filter Photography",
+      "passed": true,
+      "details": {
+        "expected": 1
+      }
+    },
+    {
+      "name": "Filter Packaging",
+      "passed": true,
+      "details": {
+        "expected": 1
+      }
+    },
+    {
+      "name": "All projects restored",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Service disclosure 1",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Service disclosure 2",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Service disclosure 3",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Service disclosure 4",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Service disclosure 5",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Empty enquiry validation",
+      "passed": true,
+      "details": {
+        "errors": 4,
+        "focus": "name"
+      }
+    },
+    {
+      "name": "Malformed email validation",
+      "passed": true,
+      "details": {
+        "errors": 1,
+        "focus": "email"
+      }
+    },
+    {
+      "name": "Honest demo enquiry result",
+      "passed": true,
+      "details": {
+        "feedback": "Your enquiry is ready to preview. This is a demonstration: nothing has been sent or stored."
+      }
+    },
+    {
+      "name": "Mobile menu opens with four links",
+      "passed": true,
+      "details": {
+        "focus": "Close menu",
+        "links": 4
+      }
+    },
+    {
+      "name": "Mobile Escape restores toggle focus",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Mobile navigation closes menu",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Keyboard skip link focuses main",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "320px project dialog fits",
+      "passed": true,
+      "details": {
+        "client": 285,
+        "left": 10,
+        "right": 310,
+        "scroll": 285,
+        "width": 320
+      }
+    },
+    {
+      "name": "Local assets and basic accessibility",
+      "passed": true,
+      "details": {
+        "broken": 0,
+        "external": [],
+        "ids": [
+          "template-theme",
+          "root",
+          "home",
+          "main",
+          "hero",
+          "hero-title",
+          "portfolio",
+          "work-title",
+          "about",
+          "studio-title",
+          "services",
+          "services-title",
+          "process",
+          "process-title",
+          "contact",
+          "contact-title",
+          "name",
+          "email",
+          "projectType",
+          "message",
+          "codex-browser-sidebar-comments-root"
+        ],
+        "images": [
+          {
+            "alt": "Warm minimalist interior with a linen sofa, woven stools and natural textures",
+            "height": "1800",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Sculptural wire chair on a warm beige carpet",
+            "height": "1798",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Orange Sossusvlei dunes with long, sculptural shadows",
+            "height": "798",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "White flower and geometric ceramic forms against an ochre backdrop",
+            "height": "1800",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Minimal contemporary villa with a reflective pool and natural materials",
+            "height": "1800",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Minimal still life of white ceramic vessels on a softly textured background",
+            "height": "1800",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Amber glass bottle with a blank label, styled with botanical elements",
+            "height": "793",
+            "loaded": true,
+            "width": "1200"
+          },
+          {
+            "alt": "Natural light casting geometric shadows across a textured architectural interior",
+            "height": "1500",
+            "loaded": true,
+            "width": "1200"
+          }
+        ],
+        "reducedMotion": false
+      }
+    },
+    {
+      "name": "Configuration nord",
+      "passed": true,
+      "details": {
+        "about": false,
+        "broken": 0,
+        "heading": 1,
+        "heroCta": true,
+        "mainHeight": 4521.48779296875,
+        "overflow": false,
+        "portfolio": true,
+        "process": false,
+        "projects": 3,
+        "sections": 4,
+        "services": true,
+        "studioCta": false,
+        "title": "Nord Studio — Spaces for a slower life."
+      }
+    },
+    {
+      "name": "Configuration partial",
+      "passed": true,
+      "details": {
+        "about": true,
+        "broken": 0,
+        "heading": 1,
+        "heroCta": false,
+        "mainHeight": 3783.862548828125,
+        "overflow": false,
+        "portfolio": false,
+        "process": true,
+        "projects": 0,
+        "sections": 4,
+        "services": false,
+        "studioCta": false,
+        "title": "Atelier No. 8 — Thoughtful design. Lasting impressions."
+      }
+    },
+    {
+      "name": "Configuration hidden",
+      "passed": true,
+      "details": {
+        "about": false,
+        "broken": 0,
+        "heading": 1,
+        "heroCta": false,
+        "mainHeight": 0,
+        "overflow": false,
+        "portfolio": false,
+        "process": false,
+        "projects": 0,
+        "sections": 0,
+        "services": false,
+        "studioCta": false,
+        "title": "Atelier No. 8 — Thoughtful design. Lasting impressions."
+      }
+    },
+    {
+      "name": "Client demo override retains concept disclosures",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Client draft prepared without sending",
+      "passed": true,
+      "details": {
+        "href": "mailto:studio@example.com?subject=New%20project%20enquiry%3A%20Brand%20identity&body=Your%20name%3A%20Portfolio%20QA%0AEmail%20address%3A%20portfolio-qa%40example.com%0AWhat%20are%20you%20thinking%3F%3A%20Brand%20identity%0A%0AChecking%20a%20locally%20prepared%20email%20draft%20without%20opening%20an%20email%20application."
+      }
+    },
+    {
+      "name": "Client input clears stale draft",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Retained GitHub subpath renders",
+      "passed": true,
+      "details": {
+        "canonical": "https://maker.github.io/atelier-no8/",
+        "hero": "http://127.0.0.1:4198/atelier-no8/images/studio-640.webp",
+        "projects": 6
+      }
+    },
+    {
+      "name": "GitHub subpath direct refresh",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Credits retain font and runtime notices",
+      "passed": true,
+      "details": {}
+    },
+    {
+      "name": "Contact anchor reaches its section",
+      "passed": true,
+      "details": {
+        "hash": "#contact",
+        "top": 31.9375
+      }
+    },
+    {
+      "name": "Mobile contact layout and input size",
+      "passed": true,
+      "details": {
+        "client": 360,
+        "font": "16px",
+        "hash": "#contact",
+        "scroll": 360,
+        "top": 20.375
+      }
+    },
+    {
+      "name": "Production and fixture console clean",
+      "passed": true,
+      "details": {
+        "count": 0
+      }
+    },
+    {
+      "name": "Final Cloudflare artifact default demo",
+      "passed": true,
+      "details": {
+        "canonical": null,
+        "demo": true,
+        "overflow": false,
+        "projects": 6,
+        "script": "/assets/index-Di2P-kZt.js",
+        "values": 0
+      }
+    },
+    {
+      "name": "Final artifact console clean",
+      "passed": true,
+      "details": {
+        "count": 0
+      }
+    }
+  ],
+  "limits": [
+    "One Chromium engine on Windows; no OS reduced-motion toggle or screen-reader session."
+  ],
+  "selectorNotes": [
+    "h1 counted from DOM; visible labels use observed wording/case.",
+    "Smooth anchor captures were taken after scrolling settled."
+  ]
+}

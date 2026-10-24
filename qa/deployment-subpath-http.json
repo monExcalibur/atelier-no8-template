@@ -1,0 +1,158 @@
+{
+  "base": "/atelier-no8/",
+  "metadata": {
+    "baseScript": true,
+    "canonical": true,
+    "ogImage": true
+  },
+  "files": [
+    {
+      "file": "assets/index-4swXWW42.css",
+      "status": 200
+    },
+    {
+      "file": "assets/index-DHt7Xe2u.js",
+      "status": 200
+    },
+    {
+      "file": "favicon.svg",
+      "status": 200
+    },
+    {
+      "file": "fonts/body-medium.woff2",
+      "status": 200
+    },
+    {
+      "file": "fonts/body-regular.woff2",
+      "status": 200
+    },
+    {
+      "file": "fonts/cormorant-garamond-LICENSE.txt",
+      "status": 200
+    },
+    {
+      "file": "fonts/display-italic.woff2",
+      "status": 200
+    },
+    {
+      "file": "fonts/display-regular.woff2",
+      "status": 200
+    },
+    {
+      "file": "fonts/dm-sans-LICENSE.txt",
+      "status": 200
+    },
+    {
+      "file": "image-credits.html",
+      "status": 200
+    },
+    {
+      "file": "images/forma-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/forma-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/forma-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/light-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/light-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/light-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/maison-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/maison-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/maison-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/manifest.json",
+      "status": 200
+    },
+    {
+      "file": "images/objects-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/objects-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/objects-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/social-preview.jpg",
+      "status": 200
+    },
+    {
+      "file": "images/solstice-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/solstice-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/solstice-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/stillwater-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/studio-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/studio-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/studio-640.webp",
+      "status": 200
+    },
+    {
+      "file": "images/vela-1200.webp",
+      "status": 200
+    },
+    {
+      "file": "images/vela-1800.webp",
+      "status": 200
+    },
+    {
+      "file": "images/vela-640.webp",
+      "status": 200
+    },
+    {
+      "file": "index.html",
+      "status": 200
+    }
+  ]
+}

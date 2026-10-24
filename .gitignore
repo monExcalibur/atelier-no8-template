@@ -1,0 +1,27 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.npmrc
+*.pem
+*.key
+*.p12
+*.pfx
+coverage/
+.DS_Store
+Thumbs.db
+.asset-cache/
+*.log
+qa/variants/
+qa/pages-preview/
+qa/release-preview/
+.wrangler/
+.cloudflare/
+.dev.vars
+.dev.vars.*
+*.tsbuildinfo
+
+# Local hash baselines are not part of the public template.
+qa/release-before.json
+qa/deployment-audit-before.json

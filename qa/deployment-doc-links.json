@@ -1,0 +1,69 @@
+{
+  "checked": [
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "DEPLOYMENT_QA.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "DEPLOYMENT_QA.md",
+      "target": "DEPLOYMENT_PLAN.md"
+    },
+    {
+      "file": "QA.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "README.md",
+      "target": "qa/deployment-desktop.jpg"
+    },
+    {
+      "file": "README.md",
+      "target": "qa/deployment-mobile.jpg"
+    },
+    {
+      "file": "README.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "README.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "README.md",
+      "target": "CUSTOMIZATION_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "./CUSTOMIZATION_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "README.md",
+      "target": "CUSTOMIZATION_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "./ASSET_LICENSES.md"
+    },
+    {
+      "file": "README.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "README.md",
+      "target": "DEPLOYMENT_QA.md"
+    }
+  ],
+  "missing": []
+}

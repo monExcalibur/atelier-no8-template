@@ -1,0 +1,97 @@
+{
+  "checked": [
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "CUSTOMIZATION_GUIDE.md",
+      "target": "PRODUCTION_RELEASE_REPORT.md"
+    },
+    {
+      "file": "DEPLOYMENT_GUIDE.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "DEPLOYMENT_QA.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "DEPLOYMENT_QA.md",
+      "target": "DEPLOYMENT_PLAN.md"
+    },
+    {
+      "file": "PRODUCTION_RELEASE_REPORT.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "PRODUCTION_RELEASE_REPORT.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "PRODUCTION_RELEASE_REPORT.md",
+      "target": "PRODUCTION_RELEASE_PLAN.md"
+    },
+    {
+      "file": "PUBLISHING.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "QA.md",
+      "target": "DEPLOYMENT_QA.md"
+    },
+    {
+      "file": "README.md",
+      "target": "qa/release-desktop.jpg"
+    },
+    {
+      "file": "README.md",
+      "target": "qa/release-mobile.jpg"
+    },
+    {
+      "file": "README.md",
+      "target": "CUSTOMIZATION_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "PRODUCTION_RELEASE_REPORT.md"
+    },
+    {
+      "file": "README.md",
+      "target": "DEPLOYMENT_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "PUBLISHING.md"
+    },
+    {
+      "file": "README.md",
+      "target": "CUSTOMIZATION_GUIDE.md"
+    },
+    {
+      "file": "README.md",
+      "target": "PRODUCTION_RELEASE_REPORT.md"
+    },
+    {
+      "file": "README.md",
+      "target": "ASSET_LICENSES.md"
+    }
+  ],
+  "missing": []
+}
